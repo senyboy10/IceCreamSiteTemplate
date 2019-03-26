@@ -6,3 +6,4 @@ Use of Bootstrap 4:
   Navbar, toggle icon, 
 Efficient use of Grid
 Efficient use of CSS styling
+Use of JQuery
